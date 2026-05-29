@@ -1,4 +1,5 @@
 # IDF Coworking Hub - M2 MSSI
+![Aperçu du Dashboard](dashboard.png)
 
 ## Présentation du projet
 Ce projet a été réalisé dans le cadre du cours Python du Master 2 Management de la Sécurité des Systèmes d'Information (MSSI). L'objectif est de fournir une plateforme d'aide à la décision pour les travailleurs nomades en Île-de-France, permettant de localiser et d'évaluer la fiabilité des espaces de coworking.
